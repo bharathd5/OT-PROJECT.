@@ -1,2 +1,7 @@
 pulp
 pandas
+LpProblem
+LpMinimize
+LpVariable
+lpSum
+LpBinary
