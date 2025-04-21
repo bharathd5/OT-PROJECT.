@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1DOwgjz87bBNIgzdC_cEYOtC0n6dFx1yP
 """
 
-from pulp import LpProblem, LpMinimize, LpVariable, lpSum, LpBinary
-import pandas as pd
-
 # Entities
 courses = ["Math", "Physics", "Chemistry", "English", "Biology"]
 teachers = ["T1", "T2", "T3"]
